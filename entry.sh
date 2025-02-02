@@ -1,2 +1,2 @@
 #!/bin/bash --login
-nohup /tusd &
+nohup /tus/tusd &
